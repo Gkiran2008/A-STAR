@@ -243,3 +243,6 @@ Path found: ['A', 'E', 'D', 'G']
 <img width="1603" height="363" alt="image" src="https://github.com/user-attachments/assets/69c74451-dd25-4633-b8cf-fbba2e09772f" />
 
 
+## Result : 
+
+Thus the A* algorithm has been verified successfully.
